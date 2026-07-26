@@ -1,0 +1,6 @@
+{
+  "name": "DecisionOS - Legal & Real Estate AI System",
+  "description": "سامانه هوشمند مدیریت، تحلیل و گزارش‌گیری پرونده‌های حقوقی و ملکی با بهره‌گیری از هوش مصنوعی Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
